@@ -17,7 +17,7 @@ body {
     width: 260px;
     height: 150px;
     background-size: cover;
-    mask-image: url('https://www.logodesign.net/logo-text/sassy-text-6557ld.png?nwm=1&nws=1&industry=calculator&txt_keyword=All'); /* Use your calculator image here */
+    mask-image: url('https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2014/10/mask-image.png?x25555'); /* Use your calculator image here */
     mask-size: contain;
     mask-repeat: no-repeat;
     mask-position: center;
